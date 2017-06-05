@@ -1,0 +1,14 @@
+*.pyc
+*~
+
+__pycache__
+
+rango
+
+db.sqlite3
+
+/static
+
+.DB_Store
+
+config/api_keys.py
